@@ -1,0 +1,57 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Home",
+      "link": "https://google.com",
+      "dropdown": [
+        { "id": 1, "name": "home-1", "link": "https://elecodeiranzamin.com" },
+        { "id": 2, "name": "home-1", "link": "https://elecodeiranzamin.com" },
+        { "id": 3, "name": "home-1", "link": "https://elecodeiranzamin.com" },
+        { "id": 4, "name": "home-1", "link": "https://elecodeiranzamin.com" }
+      ]
+    },
+    { "id": 2, "name": "about", "link": "https://google.com", "dropdown": [] },
+    {
+      "id": 3,
+      "name": "contact",
+      "link": "https://google.com",
+      "dropdown": []
+    },
+    {
+      "id": 4,
+      "name": "gallery",
+      "link": "https://google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "gallery-1",
+          "link": "https://elecodeiranzamin.com"
+        },
+        {
+          "id": 2,
+          "name": "gallery-1",
+          "link": "https://elecodeiranzamin.com"
+        },
+        {
+          "id": 3,
+          "name": "gallery-1",
+          "link": "https://elecodeiranzamin.com"
+        },
+        { "id": 4, "name": "gallery-1", "link": "https://elecodeiranzamin.com" }
+      ]
+    }
+  ],
+  "slider": [
+    { "id": 1, "image": "./Images/images.png", "alt": "logo" },
+    {"id": 2,"image": "./Images/m_63b2b4eba0e6c66500703473.jpeg","alt": "jordan-1"},
+    { "id": 3, "image": "./Images/images.jpeg", "alt": "jordan-4" },
+    { "id": 4, "image": "./Images/images (1).jpeg", "alt": "nike-shoes" }
+  ],
+  "shoes": [
+    { "id": 1, "src": "./Images/shoes-1.jpeg", "alt": "jordan-1" },
+    { "id": 2, "src": "./Images/shoes-2.avif", "alt": "jordan-4" },
+    { "id": 3, "src": "./Images/shoes-3.jpeg", "alt": "air-force" },
+    { "id": 4, "src": "./Images/shoes-4.jpeg", "alt": "jordan-4" }
+  ]
+}
